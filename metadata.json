@@ -1,0 +1,31 @@
+{
+  "name": "qr2layer",
+  "symbol": "QR2",
+  "description": "QR2 is a verification token designed to connect real-world assets with blockchain integrity through QR authentication. The protocol powers the creation of asset-linked accounts that record authenticity, ownership, and provenance within Solana parallel runtime. Each QR node embeds hashed identifiers and metadata into immutable on-chain storage. Every QR scan triggers a hashed event containing asset metadata and ownership state, recorded through smart contracts and verified using asymmetric encryption and multi-signature authorization.",
+  "image": "mytoken-logo.png",
+  "external_url": "https://qr2layer.com",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "mytoken-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "socials": {
+      "twitter": "https://x.com/qr2layer",
+      "telegram": "https://t.me/qr2layer",
+      "instagram": "https://instagram.com/qr2layer"
+    }
+  }
+}
