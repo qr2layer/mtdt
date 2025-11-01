@@ -17,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "mytoken-logo.png",
+        "uri": "https://raw.githubusercontent.com/qr2layer/mtdt/refs/heads/main/qr2logo.png",
         "type": "image/png"
       }
     ],
